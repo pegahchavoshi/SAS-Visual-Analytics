@@ -50,6 +50,13 @@ When it comes to fitness products, Madrid (234) and Milano (205) are the top two
 
 
 
+The following image displays the dual-axis time series plot filtered to show data for the Indoor Sports and Fitness categories.
+
+![Snapshot of Profit and Orders by Time 03-24-2020 at 12 17 52 PM](https://user-images.githubusercontent.com/94572320/230972724-806d3a9e-071d-4811-a0a6-6cdeb2d072d2.png)
+
+
+
+
 
 
 
