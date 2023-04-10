@@ -20,3 +20,33 @@ Among the various categories, indoor sports have the lowest number of orders, wi
 ![fewest number of orders](https://user-images.githubusercontent.com/94572320/230970008-ba8b815a-0329-41f9-ba99-176113ab4971.PNG)
 
 ![Capture (1)](https://user-images.githubusercontent.com/94572320/230970133-54f76938-8a21-4859-9f28-234ffce3f12b.PNG)
+
+
+
+The Indoor Sports category comprises the product groups of Fitness, Gymnastic Clothing, and Top Trim.
+
+![3](https://user-images.githubusercontent.com/94572320/230971025-8d391f51-f121-4541-94b3-10fc729a18b9.PNG)
+
+
+
+The Fitness product group contains a total of 45 products.
+
+![4](https://user-images.githubusercontent.com/94572320/230971368-ad59d9c9-2fd9-4a6a-9005-165a2f2e54a2.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
