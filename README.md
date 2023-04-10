@@ -16,3 +16,7 @@ The upper-left section of the display presents data on profitability and product
 Among the various categories, indoor sports have the lowest number of orders, with a total of 11,755. On the other hand, team sports have the lowest total profit, amounting to 133,185.52
 
 ![Snapshot of Profit and Quantity by Category 03-24-2020 at 11 49 07 AM](https://user-images.githubusercontent.com/94572320/230969381-dd36ca79-0e91-476e-95ef-999ea614565a.png)
+
+![fewest number of orders](https://user-images.githubusercontent.com/94572320/230970008-ba8b815a-0329-41f9-ba99-176113ab4971.PNG)
+
+![Capture (1)](https://user-images.githubusercontent.com/94572320/230970133-54f76938-8a21-4859-9f28-234ffce3f12b.PNG)
