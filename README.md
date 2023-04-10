@@ -57,7 +57,9 @@ The following image displays the dual-axis time series plot filtered to show dat
 ![Snapshot of Profit and Orders by Time 03-24-2020 at 12 17 52 PM](https://user-images.githubusercontent.com/94572320/230972724-806d3a9e-071d-4811-a0a6-6cdeb2d072d2.png)
 
 
+# Conclusion
 
+Based on the report, it can be concluded that Orion Star Sports & Outdoors has a diversified range of products and categories, with different levels of profitability and demand. The company should focus on improving the profitability of the team sports category, which had the lowest total profit among all categories. Additionally, the fitness product group within the indoor sports category had several products that generated a loss, indicating the need for further analysis and potential adjustments to the pricing or product mix. The report also highlights the importance of analyzing profitability and demand by city, as certain cities may have higher profitability despite having a lower number of orders. Overall, the financial analysis provided in the report can help Orion Star Sports & Outdoors make informed decisions regarding its product mix, pricing strategy, and geographic focus.
 
 
 
