@@ -35,7 +35,18 @@ The Fitness product group contains a total of 45 products.
 
 
 
+Several fitness products in the inventory generate a loss. These products include Letour Mag Plus Bike-Buy Now Paper, Letour Spinner Bike, Letour 757 Home Exerciser, and Lift Weights 15 Kg Dumbbell.
 
+![Snapshot of Product Details 03-24-2020 at 12 21 26 PM](https://user-images.githubusercontent.com/94572320/230971779-7ace72ba-63cc-46b8-8997-ea652e156ddf.png)
+
+
+
+When it comes to fitness products, Madrid (234) and Milano (205) are the top two cities with the highest number of orders. In terms of profitability, London (523.38) and Houston (278.20) emerge as the top two cities.
+
+
+![Snapshot of Orders 03-24-2020 at 12 50 04 PM](https://user-images.githubusercontent.com/94572320/230972284-c7d54177-58af-43b5-aee0-c18a520acb4e.png)
+
+![Snapshot of Profit 03-24-2020 at 12 50 13 PM](https://user-images.githubusercontent.com/94572320/230972322-ae286d04-4ad7-4678-8148-d2ff147ae456.png)
 
 
 
