@@ -8,6 +8,7 @@ Orion Star Sports & Outdoors is a global sports and outdoors retailer with tradi
 
 
 # Results
+
 The upper-left section of the display presents data on profitability and product quantity by category. For instance, the Shoe category's data is represented in four charts. By double-clicking on the Shoe category in the bar chart, one can access more specific information on the products within that category. The upper-right graph provides an overview of the profit by product group for the shoe category, including Eclipse Shoes, Shoes, and Tracker Shoes. The lower-left bar chart displays information on orders and profits by city, while the lower-right graph features a dual-axis time series plot that illustrates the profit and number of orders over time.
 
 ![1](https://user-images.githubusercontent.com/94572320/230967968-6d97f976-e13a-4279-bcb0-be796bc3d2f1.PNG)
