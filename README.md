@@ -1,6 +1,6 @@
 # SAS-Visual-Analytics
 
-# Report Overview
+## Report Overview
 
 Orion Star Sports & Outdoors is a global sports and outdoors retailer with traditional stores, an online store, and a large catalog business. The corporate headquarters is located in the United States with offices and stores in many countries throughout the world. This report shows a Financial analysis of the industry using its historical data.
 
