@@ -1,4 +1,4 @@
-# SAS-Visual-Analytics
+# Orion Star Financial Analysis Dashboard (SAS-VA)
 
 ## Report Overview
 
@@ -7,7 +7,7 @@ Orion Star Sports & Outdoors is a global sports and outdoors retailer with tradi
 ![report viewer](https://user-images.githubusercontent.com/94572320/230964731-25217df7-2af0-4940-985e-e8cc4b5206ad.PNG)
 
 
-# Results
+## Results
 
 The upper-left section of the display presents data on profitability and product quantity by category. For instance, the Shoe category's data is represented in four charts. By double-clicking on the Shoe category in the bar chart, one can access more specific information on the products within that category. The upper-right graph provides an overview of the profit by product group for the shoe category, including Eclipse Shoes, Shoes, and Tracker Shoes. The lower-left bar chart displays information on orders and profits by city, while the lower-right graph features a dual-axis time series plot that illustrates the profit and number of orders over time.
 
@@ -57,7 +57,7 @@ The following image displays the dual-axis time series plot filtered to show dat
 ![Snapshot of Profit and Orders by Time 03-24-2020 at 12 17 52 PM](https://user-images.githubusercontent.com/94572320/230972724-806d3a9e-071d-4811-a0a6-6cdeb2d072d2.png)
 
 
-# Conclusion
+## Conclusion
 
 Based on the report, it can be concluded that Orion Star Sports & Outdoors has a diversified range of products and categories, with different levels of profitability and demand. The company should focus on improving the profitability of the team sports category, which had the lowest total profit among all categories. Additionally, the fitness product group within the indoor sports category had several products that generated a loss, indicating the need for further analysis and potential adjustments to the pricing or product mix. The report also highlights the importance of analyzing profitability and demand by city, as certain cities may have higher profitability despite having a lower number of orders. Overall, the financial analysis provided in the report can help Orion Star Sports & Outdoors make informed decisions regarding its product mix, pricing strategy, and geographic focus.
 
